@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently studying at RSU
+- 🌱 I’m currently learning Computer Enginerring
 
 <!--
 **Lilmeep21/Lilmeep21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
